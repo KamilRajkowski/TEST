@@ -1,4 +1,6 @@
 grupa A6K2S1
 
 if(github==KamilRajkowski)
-{}
+{
+Ocena++
+}
